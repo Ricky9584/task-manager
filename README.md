@@ -12,6 +12,10 @@ A simple and intuitive to-do list application built with Python and Tkinter. Org
 - 💾 **Data Persistence** - All tasks are automatically saved to a JSON file, so they persist between sessions
 - 📜 **Scrollable Interface** - Handle large task lists with an integrated scrollbar
 
+## Screenshots
+![Task Manager UI](images/app_1.png)
+![Calendar Integration](images/app_2.png)
+
 ## Requirements
 
 - Python 3.x

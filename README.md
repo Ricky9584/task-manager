@@ -4,13 +4,13 @@ A simple and intuitive to-do list application built with Python and Tkinter. Org
 
 ## Features
 
-✅ **Create Tasks** - Add new tasks with a simple input field
-📅 **Due Dates** - Set due dates for each task using an interactive calendar
-⚠️ **Urgency Levels** - Mark tasks with three urgency levels (😃 Not Urgent, 😐 Neutral, 😠 Urgent)
-✔️ **Task Completion** - Check off completed tasks (completed tasks appear grayed out)
-🗑️ **Delete Tasks** - Remove tasks you no longer need
-💾 **Data Persistence** - All tasks are automatically saved to a JSON file, so they persist between sessions
-📜 **Scrollable Interface** - Handle large task lists with an integrated scrollbar
+- ✅ **Create Tasks** - Add new tasks with a simple input field
+- 📅 **Due Dates** - Set due dates for each task using an interactive calendar
+- ⚠️ **Urgency Levels** - Mark tasks with three urgency levels (😃 Not Urgent, 😐 Neutral, 😠 Urgent)
+- ✔️ **Task Completion** - Check off completed tasks (completed tasks appear grayed out)
+- 🗑️ **Delete Tasks** - Remove tasks you no longer need
+- 💾 **Data Persistence** - All tasks are automatically saved to a JSON file, so they persist between sessions
+- 📜 **Scrollable Interface** - Handle large task lists with an integrated scrollbar
 
 ## Requirements
 

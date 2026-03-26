@@ -13,8 +13,8 @@ A simple and intuitive to-do list application built with Python and Tkinter. Org
 - 📜 **Scrollable Interface** - Handle large task lists with an integrated scrollbar
 
 ## Screenshots
-![Task Manager UI](images/app_1.png)
-![Calendar Integration](images/app_2.png)
+<img src="images/app_1.png" width="500">
+<img src="images/app_2.png" width="500">
 
 ## Requirements
 
